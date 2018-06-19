@@ -1,24 +1,6 @@
-# README
+# Sparta-Rails-Intro-Homework
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This homework was an introduction to Rails.
+Building out a blog from scratch with the rails framework, coding along to the Traversy Media 'Ruby On Rails In 60 Minutes' video.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Link found [here](https://www.youtube.com/watch?v=pPy0GQJLZUM&t=1404s).
